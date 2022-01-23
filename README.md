@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Simple web site to demonstrate the implementation of styled-components version 5, covering most of the features available with styled-components.
+
+Just clone the project to your local environment and run 'yarn' to install the dependencies.
+
+Enjoy!
+
 ## Available Scripts
 
 In the project directory, you can run:
